@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "np": "^7.6.2"
+  },
+  "scripts": {
+    "release": "np --no-publish --yolo"
+  },
+  "name": "npTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ratmie/npTest.git",
+  "author": "Takegata <39664958+ratmie@users.noreply.github.com>",
+  "license": "MIT"
+}
